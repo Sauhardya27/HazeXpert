@@ -1,6 +1,8 @@
 import close from "./close.svg";
 import logo from "./logo.svg";
 import menu from "./menu.svg";
+import processed_input1 from "./processed_input1.png";
+import input1 from "./input1.png";
 /*import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
@@ -28,4 +30,6 @@ export {
   close,
   logo,
   menu,
+  processed_input1,
+  input1
 };
