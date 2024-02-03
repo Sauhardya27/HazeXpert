@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Navbar, Hero } from "./components";
+import { Navbar, Hero, Design } from "./components";
 
 const App = () => (
   <div className="bg-black w-full overflow-hidden">
@@ -16,6 +16,7 @@ const App = () => (
         </div>
       </div>
     </div>
+    <Design />
   </div>
 );
 
