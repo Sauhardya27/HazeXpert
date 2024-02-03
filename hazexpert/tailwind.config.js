@@ -9,6 +9,9 @@ export default {
         secondary: "#00f6ff",
         dimWhite: "rgba(255, 255, 255, 0.7)",
         dimBlue: "rgba(9, 151, 124, 0.1)",
+        purple: "rgba(114, 65, 252, 1)",
+        purpleG: "rgba(114, 65, 252, 1)66.94%",
+        whiteG: "rgba(225, 215, 255, 1)106.57%",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
