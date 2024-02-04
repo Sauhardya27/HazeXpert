@@ -9,6 +9,7 @@ import Line2 from "./Line2.svg";
 import round1 from "./round1.svg";
 import round2 from "./round2.svg";
 import Gradient from "./Gradient.svg"
+import cloud from "./cloud.svg";
 /*import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
@@ -27,4 +28,5 @@ export {
   round1,
   round2,
   Gradient,
+  cloud,
 };
