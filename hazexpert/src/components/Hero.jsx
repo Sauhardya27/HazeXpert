@@ -1,5 +1,5 @@
 import styles from "../style";
-import { processed_input1, input1 } from '../assets';
+import { processed_input1, input1, demo } from '../assets';
 import Button from "./Button";
 
 const Hero = () => (
@@ -18,7 +18,7 @@ const Hero = () => (
 			</p>
 			<Button />
 		</div>
-
+		<img src={demo} alt="demo-img" className="w-[35%]"/>
 
 	</section>
 );

@@ -25,6 +25,7 @@ import arrow from "./arrow.svg";
 import ff1 from "./ff1.svg";
 import ff2 from "./ff2.svg";
 import ff3 from "./ff3.svg";
+import demo from "./demo.svg";
 
 
 
@@ -56,4 +57,5 @@ export {
   ff1,
   ff2,
   ff3,
+  demo,
 };

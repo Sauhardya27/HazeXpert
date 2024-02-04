@@ -12,7 +12,6 @@ export default {
         purple: "rgba(114, 65, 252, 1)",
         purpleG: "rgba(114, 65, 252, 1)66.94%",
         whiteG: "rgba(225, 215, 255, 1)106.57%",
-        uStart: "",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
