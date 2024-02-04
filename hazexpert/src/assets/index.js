@@ -22,6 +22,9 @@ import round4 from "./round4.svg";
 import Gradient from "./Gradient.svg"
 import cloud from "./cloud.svg";
 import arrow from "./arrow.svg";
+import ff1 from "./ff1.svg";
+import ff2 from "./ff2.svg";
+import ff3 from "./ff3.svg";
 
 
 
@@ -50,4 +53,7 @@ export {
   two,
   three,
   arrow,
+  ff1,
+  ff2,
+  ff3,
 };
