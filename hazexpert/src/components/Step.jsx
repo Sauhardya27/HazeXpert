@@ -18,7 +18,7 @@ const FeatureCard = ({ icon, number, next, title, content, index }) => (
 )
 
 const Step = () => (
-  <section className={layout.section}>
+  <section className={`${layout.section} relative right-10`}>
     <div className={`${layout.sectionImg} flex-col sm:flex-row sm:space-x-14`}>
       {steps.map((step, index) => (
         <FeatureCard key={step.id} {...step} index={index} />

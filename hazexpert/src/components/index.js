@@ -1,6 +1,7 @@
 import Navbar from "./Navbar";
 import Hero from "./Hero";
 import Design from "./Design";
+import Design1 from "./Design1";
 import Upload from "./Upload";
 import Step from "./Step";
 
@@ -10,4 +11,5 @@ export {
 	Design,
 	Upload,
 	Step,
+	Design1,
 };

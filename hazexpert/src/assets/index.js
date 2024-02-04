@@ -12,8 +12,13 @@ import input1 from "./input1.png";
 import circle from "./circle.svg";
 import Line from "./Line.svg";
 import Line2 from "./Line2.svg";
+import Line3 from "./Line3.svg";
+import Line4 from "./Line4.svg";
+import Line5 from "./Line5.svg";
 import round1 from "./round1.svg";
 import round2 from "./round2.svg";
+import round3 from "./round3.svg";
+import round4 from "./round4.svg";
 import Gradient from "./Gradient.svg"
 import cloud from "./cloud.svg";
 import arrow from "./arrow.svg";
@@ -29,8 +34,13 @@ export {
   circle,
   Line,
   Line2,
+  Line3,
+  Line4,
+  Line5,
   round1,
   round2,
+  round3,
+  round4,
   Gradient,
   cloud,
   icon1,
